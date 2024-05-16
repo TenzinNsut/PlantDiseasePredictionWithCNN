@@ -1,10 +1,7 @@
 # Plant Disease Prediction with CNN
-
-
+[Docker] (https://hub.docker.com/r/tenlekshe/plant-disease-prediction/tags)
 
 https://github.com/TenzinNsut/PlantDiseasePredictionWithCNN/assets/105097758/a140ee99-d542-41e6-bb62-153c37cf39a4
-
-
 
 This repository contain a Convolutional Neural Network (CNN) model for predicting plant diseases based on input images. The model is trained on the PlantVillage dataset and can classify images into 38 different classes, representing various plant species and their potential diseases.
 
