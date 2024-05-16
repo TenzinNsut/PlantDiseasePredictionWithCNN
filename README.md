@@ -35,3 +35,5 @@ The training data is augmented using the ImageDataGenerator from Keras, which ap
 
 ## Evaluation
 The trained model is evaluated on a separate validation set, and the validation accuracy is 88%. The training and validation accuracy and loss curves are plotted to visualize the model's performance during training.
+![image](https://github.com/TenzinNsut/PlantDiseasePredictionWithCNN/assets/105097758/ffe4985d-b425-4903-a268-bf621d01aa09)
+
