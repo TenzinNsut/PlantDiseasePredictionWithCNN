@@ -1,5 +1,5 @@
 # Plant Disease Prediction with CNN
-[Docker] (https://hub.docker.com/r/tenlekshe/plant-disease-prediction/tags)
+[Docker](https://hub.docker.com/r/tenlekshe/plant-disease-prediction/tags)
 
 https://github.com/TenzinNsut/PlantDiseasePredictionWithCNN/assets/105097758/a140ee99-d542-41e6-bb62-153c37cf39a4
 
